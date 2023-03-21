@@ -1,0 +1,26 @@
+/** fonts Qanelas-Bold **/
+@font-face {
+	font-family: 'Bold';
+	src: url('../fonts/Qanelas-Bold.eot');
+	src: local('☺'), url('../fonts/Qanelas-Bold.woff') format('woff'), url('../fonts/Qanelas-Bold.ttf') format('truetype'), url('../fonts/Qanelas-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+/** Gfonts Qanelas-Regular **/
+@font-face {
+	font-family: 'Qanelas-Regular';
+	src: url('../fonts/Qanelas-Regular.eot');
+	src: local('☺'), url('../fonts/Qanelas-Regular.woff') format('woff'), url('../fonts/Qanelas-Regular.ttf') format('truetype'), url('../fonts/Qanelas-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/** fonts Qanelas-SemiBold **/
+@font-face {
+	font-family: 'Semibold';
+	src: url('../fonts/Qanelas-SemiBold.eot');
+	src: local('☺'), url('../fonts/Qanelas-SemiBold.woff') format('woff'), url('../fonts/Qanelas-SemiBold.ttf') format('truetype'), url('../fonts/Qanelas-SemiBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
